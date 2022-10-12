@@ -66,3 +66,6 @@ async def read_user_item(
             {"description": "This is an amazing item that has a long description"}
         )
     return item
+
+
+## 필수 쿼리 매개변수 ##
